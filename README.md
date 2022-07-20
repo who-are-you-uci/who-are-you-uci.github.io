@@ -1,4 +1,4 @@
-# HUMMINGBIRD \
+# HUMMINGBIRD
 \
 Bonus round: \
 hint: un, trois \
